@@ -8,7 +8,7 @@
 6. Static Site Server
 7. Basic DNS Setup
 8. Simple Monitoring
-9. Dummy Systemd Service
+9.  [Dummy Systemd Service](https://roadmap.sh/projects/dummy-systemd-service) ✅
 10. [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile) ✅
 11. EC2 Instance
 12. Configuration Management

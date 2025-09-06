@@ -1,0 +1,15 @@
+[Unit]
+Description=Dummy long-running service
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/opt/dummy/dummy.sh
+Restart=always
+RestartSec=5
+User=root
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

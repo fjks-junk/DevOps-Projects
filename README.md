@@ -58,4 +58,5 @@ This applies to **CPU**, **memory**, and **disk** usage.
    chmod +x server-stats.sh
 
 
+This project is part of roadmap.sh DevOps projects.
 **https://roadmap.sh/projects/server-stats**

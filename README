@@ -4,7 +4,7 @@ A simple Bash script to display system statistics (CPU, memory, disk, processes,
 
 ---
 
-## ✨ Features
+## Features
 - Show OS version and system uptime
 - Display **load average** and number of logged-in users
 - Count failed SSH login attempts (`/var/log/auth.log`)
@@ -23,7 +23,7 @@ A simple Bash script to display system statistics (CPU, memory, disk, processes,
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 The script works on most Linux distributions (Debian, Ubuntu, CentOS, ...). It requires the following commands to be available:
 - `bash`
 - `awk`
@@ -40,7 +40,7 @@ The script works on most Linux distributions (Debian, Ubuntu, CentOS, ...). It r
 
 ---
 
-## 🚦 Color Legend
+## Color Legend
 The script uses color-coded output to indicate system health:
 
 - 🟢 **Green** → Normal (≤ 50%)  
@@ -51,8 +51,11 @@ This applies to **CPU**, **memory**, and **disk** usage.
 
 ---
 
-## 🚀 Usage
+## Usage
 1. Save the script as `server-stats.sh`.
 2. Make it executable:
    ```bash
    chmod +x server-stats.sh
+
+
+**https://roadmap.sh/projects/server-stats**

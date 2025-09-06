@@ -152,8 +152,5 @@ Using `tee -a` in `dummy.sh` ensures logs are written both to the journal and th
 * Ensure the script is executable and writable logs exist
 * This setup is ready for deployment on any Linux server with systemd
 
-```
-
----
 
  This project is part of [roadmap.sh](https://roadmap.sh/projects/dummy-systemd-service) DevOps projects.

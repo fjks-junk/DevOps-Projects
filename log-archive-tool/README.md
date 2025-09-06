@@ -83,3 +83,5 @@ All operations and statuses are recorded in:
 * Adjust `Age` in the script to change the minimum age of logs to archive (default 7 days).
 * Large log files are split into 1GB parts automatically.
 
+ ---
+ This project is part of [roadmap.sh](https://roadmap.sh/projects/log-archive-tool) DevOps projects.

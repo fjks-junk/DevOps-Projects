@@ -56,7 +56,9 @@ This applies to **CPU**, **memory**, and **disk** usage.
 2. Make it executable:
    ```bash
    chmod +x server-stats.sh
+3. Execute it
+   ```bash
+   ./server-stats.sh
 
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
 
-This project is part of roadmap.sh DevOps projects.
-**https://roadmap.sh/projects/server-stats**
